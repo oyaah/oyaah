@@ -1,21 +1,22 @@
-# Hi there, I'm oyaah 👋
+# Yash Bansal
 
-I'm an Open Source Software contributor focusing on **AI Tooling, Agentic Frameworks, and Workflow Automation**. 
+**AI Engineer & ML Researcher | IIT Roorkee**
 
-I believe in building and maintaining the foundational bridges that connect powerful AI models to real-world workflows. My focus is on reducing the maintenance burden in the OSS ecosystem through automation and smart integrations.
+Building production-grade agentic LLM systems, zero-hallucination RAG pipelines, and multimodal deep learning architectures. Published at **AAAI** and **ICVGIP**. My focus lies at the intersection of Computer Vision, NLP, and advanced Multi-Agentic Systems.
 
-## 🛠 Areas of Focus
-- **AI Memory & Agents**: Extending long-term memory capabilities for LLM applications.
-- **Workflow Automation**: Building connectors and nodes for platforms like n8n and Activepieces.
-- **Developer Tooling**: Creating utilities that streamline code review and repository maintenance.
+### 🔬 Research & Publications
+- *Zero-Shot Vision Language Reasoning via Dual-layer Scene Graph Chain of Thoughts.* **AAAI 2026**
+- *TWiST: Temporal Weakly-Supervised Triplets Recognition in Surgical Videos.* **AAAI 2026**
+- *Weighted ColorMorphology Feature Fusion for Tuberculosis Bacilli Detection.* **ICVGIP 2025**
 
-## 📈 OSS Contributions
-*I am actively contributing to and maintaining integrations within the AI & Automation space. Always open to collaborating on tools that improve ecosystem interoperability.*
+### 💻 Engineering Focus
+- **Agentic Systems:** Architecting multi-agent swarms using LangGraph, CrewAI, and mem0.
+- **RAG & Retrieval:** High-precision hybrid retrieval (Dense + FTS5 BM25) with NLI verification (DeBERTa-v3), RRF fusion, and Redis-backed session memory.
+- **Computer Vision & Multimodal:** Building models with PyTorch, OpenCV, LayoutLMv3, and EfficientNet-V2 for everything from document OCR to satellite-driven valuation.
+- **DevTools & Infra:** FastAPI, Docker, MLflow, W&B, Celery, Prometheus, AWS/GCP.
 
-## ⚡ Tech Stack
-- Python • TypeScript • Swift
-- LangChain • mem0 • n8n 
-- GitHub Actions • OpenAI / Anthropic APIs
+### 🛠️ Open Source & Tools
+I contribute to and build elite developer tools, agentic memory frameworks, and Peter-Steinberger-style precision utilities. 
 
 ---
-*“Building the plumbing for the AI revolution.”*
+[LinkedIn](https://www.linkedin.com/in/yash-bansal-b506bb302/) • [oyaah.github.io](https://oyaah.github.io)
