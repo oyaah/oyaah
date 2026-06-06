@@ -2,7 +2,7 @@
 
 **AI Engineer & ML Researcher | IIT Roorkee**
 
-Building production-grade agentic LLM systems, zero-hallucination RAG pipelines, and multimodal deep learning architectures. Published at **AAAI** and **ICVGIP**. My focus lies at the intersection of Computer Vision, NLP, and advanced Multi-Agentic Systems.
+Building production-grade agentic LLM systems, RAG pipelines, and multimodal deep learning architectures. Published at **AAAI** and **ICVGIP**. My focus lies at the intersection of Computer Vision, NLP, and Multi-Agentic Systems.
 
 ### 🔬 Research & Publications
 - *Zero-Shot Vision Language Reasoning via Dual-layer Scene Graph Chain of Thoughts.* **AAAI 2026**
@@ -16,7 +16,7 @@ Building production-grade agentic LLM systems, zero-hallucination RAG pipelines,
 - **DevTools & Infra:** FastAPI, Docker, MLflow, W&B, Celery, Prometheus, AWS/GCP.
 
 ### 🛠️ Open Source & Tools
-I contribute to and build elite developer tools, agentic memory frameworks, and Peter-Steinberger-style precision utilities. 
+I contribute to and build  developer tools, agentic memory frameworks, and AI powered automation tools. 
 
 ---
 [LinkedIn](https://www.linkedin.com/in/yash-bansal-b506bb302/) • [oyaah.github.io](https://oyaah.github.io)
