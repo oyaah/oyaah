@@ -15,8 +15,10 @@ Building production-grade agentic LLM systems, RAG pipelines, and multimodal dee
 - **Computer Vision & Multimodal:** Building models with PyTorch, OpenCV, LayoutLMv3, and EfficientNet-V2 for everything from document OCR to satellite-driven valuation.
 - **DevTools & Infra:** FastAPI, Docker, MLflow, W&B, Celery, Prometheus, AWS/GCP.
 
-### 🛠️ Open Source & Tools
-I contribute to and build  developer tools, agentic memory frameworks, and AI powered automation tools. 
+### 🛠️ Open Source & AI Automations
+- **Agentic Developer Tools:** Actively building and contributing to next-generation AI coding assistants, automated code reviewers, and agent-driven workflows.
+- **OpenAI Ecosystem & Codex:** Leveraging bleeding-edge language models to bootstrap scalable, context-aware coding pipelines and system-level automations.
+- **Ecosystem Contributions:** Active contributor to modern agentic frameworks, persistent memory tools, and LLM orchestration layers. 
 
 ---
 [LinkedIn](https://www.linkedin.com/in/yash-bansal-b506bb302/) • [oyaah.github.io](https://oyaah.github.io)
